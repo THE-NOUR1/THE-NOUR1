@@ -43,17 +43,7 @@
 </p>
 <br><br>
 <!-------------------------------------------------------------->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/notepad.gif" alt="Site created with Notepad" height="30" />
-
 
