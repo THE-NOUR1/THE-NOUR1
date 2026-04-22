@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ff66b2,100:ff99cc&height=200&section=header&text=WEB%20DEVELOPER%20%F0%9F%92%BB&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Code.%20Build.%20Deploy.%20Repeat.&descSize=16&descAlignY=55" width="100%"/>
 <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="400">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="400">
+</p>
 <br><br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="900" alt="animated hello">
 <!------------------------------------------------------>
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
