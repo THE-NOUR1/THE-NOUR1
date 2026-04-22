@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ff66b2,100:ff99cc&height=200&section=header&text=WEB%20DEVELOPER%20%F0%9F%92%BB&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Code.%20Build.%20Deploy.%20Repeat.&descSize=16&descAlignY=55" width="100%"/>
 
+- Pacman
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
+<br><br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="700">
 </p>
